@@ -1,0 +1,6 @@
+{
+  "name": "EventOS",
+  "description": "A full-stack real-time coordination web application for event management teams and freelance staff, featuring live timelines, task tracking, chat, resource sharing, and automated check-ins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
